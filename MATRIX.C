@@ -166,6 +166,7 @@ void main()
 			break;
 		case(5):
 			printf("exit the loop");
+			break;
 		default:
 			start++;
 			goto start;
